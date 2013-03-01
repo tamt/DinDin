@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740e1a93-2885-4e27-a791-33e30d4c6383" name="Default" comment="" />
+    <list default="true" id="740e1a93-2885-4e27-a791-33e30d4c6383" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\flash\tamt2013\DinDin\cirrus_sample_app\AbstractIdManager.as" afterPath="$PROJECT_DIR$/cirrus_sample_app/src/AbstractIdManager.as" />
+      <change type="MOVED" beforePath="E:\flash\tamt2013\DinDin\cirrus_sample_app\HttpIdManager.as" afterPath="$PROJECT_DIR$/cirrus_sample_app/src/HttpIdManager.as" />
+      <change type="MOVED" beforePath="E:\flash\tamt2013\DinDin\cirrus_sample_app\IdManagerError.as" afterPath="$PROJECT_DIR$/cirrus_sample_app/src/IdManagerError.as" />
+      <change type="MOVED" beforePath="E:\flash\tamt2013\DinDin\cirrus_sample_app\IdManagerEvent.as" afterPath="$PROJECT_DIR$/cirrus_sample_app/src/IdManagerEvent.as" />
+      <change type="MOVED" beforePath="E:\flash\tamt2013\DinDin\cirrus_sample_app\VideoPhoneLabs.mxml" afterPath="$PROJECT_DIR$/cirrus_sample_app/src/VideoPhoneLabs.mxml" />
+    </list>
     <ignored path="DinDin.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="740e1a93-2885-4e27-a791-33e30d4c6383" time="1362146911515" ignored="false" />
+    <file path="/fragment.js2" changelist="740e1a93-2885-4e27-a791-33e30d4c6383" time="1362148145343" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +31,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -26,6 +39,7 @@
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
         <option name="COUNT_FILTER" value="0" />
         <option name="CONDITION_ENABLED" value="false" />
@@ -41,6 +55,7 @@
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
         <option name="COUNT_FILTER" value="0" />
         <option name="CONDITION_ENABLED" value="false" />
@@ -50,14 +65,35 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="DinDin" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ReadMe.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cirrus_sample_app/ReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="85" selection-start="484" selection-end="484" vertical-scroll-proportion="0.31456953">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cirrus.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cirrus.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="31" selection-start="177" selection-end="214" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -67,12 +103,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cirrus_sample_app/src/VideoPhoneLabs.mxml" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
+    <option name="x" value="76" />
     <option name="y" value="-4" />
-    <option name="width" value="1841" />
-    <option name="height" value="1088" />
+    <option name="width" value="1208" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -100,6 +148,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -110,7 +159,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -118,28 +166,28 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Flash App.SimpleReciever">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\flash\tamt2013\DinDin\cirrus_sample_app\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.cirrus_sample_app">
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" class_name="" method_name="" output_log_level="" package_name="" scope="Class">
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
         <LauncherParameters>
@@ -150,13 +198,7 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
@@ -169,14 +211,7 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" runner="idea" />
@@ -191,24 +226,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="PhingTarget" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Generated" />
+      <option name="appDescriptorForEmulator" value="Android" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
       <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
       <option name="fullScreenHeight" value="0" />
       <option name="fullScreenWidth" value="0" />
       <option name="launchUrl" value="false" />
@@ -225,27 +255,24 @@
       <option name="overriddenOutputFileName" value="" />
       <option name="overrideMainClass" value="false" />
       <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
       <option name="screenHeight" value="0" />
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-        <option name="RakeTask" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <configuration default="false" name="SimpleMobileController" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="SimpleMobileController" />
+      <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Generated" />
+      <option name="appDescriptorForEmulator" value="Android" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
       <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
       <option name="fullScreenHeight" value="0" />
       <option name="fullScreenWidth" value="0" />
       <option name="launchUrl" value="false" />
@@ -262,6 +289,7 @@
       <option name="overriddenOutputFileName" value="" />
       <option name="overrideMainClass" value="false" />
       <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
       <option name="screenHeight" value="0" />
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
@@ -270,13 +298,15 @@
     </configuration>
     <configuration default="false" name="SimpleReciever" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="SimpleReciever" />
+      <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Generated" />
+      <option name="appDescriptorForEmulator" value="Android" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
       <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
       <option name="fullScreenHeight" value="0" />
       <option name="fullScreenWidth" value="0" />
       <option name="launchUrl" value="false" />
@@ -293,15 +323,55 @@
       <option name="overriddenOutputFileName" value="" />
       <option name="overrideMainClass" value="false" />
       <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
       <option name="screenHeight" value="0" />
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="cirrus_sample_app" type="FlashRunConfigurationType" factoryName="Flash App" singleton="true">
+      <option name="BCName" value="cirrus_sample_app" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="cirrus_sample_app" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexDebugRunner" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Flash App.SimpleMobileController" />
       <item index="1" class="java.lang.String" itemvalue="Flash App.SimpleReciever" />
+      <item index="2" class="java.lang.String" itemvalue="Flash App.cirrus_sample_app" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -335,34 +405,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="-4" width="1841" height="1088" extended-state="0" />
-    <editor active="false" />
+    <frame x="76" y="-4" width="1208" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Robotlegs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6709602" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.333691" sideWeight="0.45416668" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32725322" sideWeight="0.49510404" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24915825" sideWeight="0.61843514" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32618025" sideWeight="0.49786553" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27534685" sideWeight="0.49839914" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18363939" sideWeight="0.6888412" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6525229" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32403433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24915825" sideWeight="0.61843514" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409818" sideWeight="0.64334863" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.36697248" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933074" sideWeight="0.6709602" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20033576" sideWeight="0.58476394" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2036395" sideWeight="0.67391306" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.49786553" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18363939" sideWeight="0.6888412" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27534685" sideWeight="0.49839914" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41483805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24874792" sideWeight="0.6877682" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Robotlegs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6709602" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6709602" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3111588" sideWeight="0.7083333" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Profile" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.333691" sideWeight="0.45416668" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6525229" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.36697248" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933074" sideWeight="0.6709602" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24874792" sideWeight="0.6877682" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -388,7 +458,6 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
@@ -398,9 +467,11 @@
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -420,10 +491,153 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/as3mul_SimpleMobileController/multiuser/src/com/reyco1/multiuser/DirectLanConnection.as">
+    <entry file="file://$PROJECT_DIR$/cirrus.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="382" selection-end="382" vertical-scroll-proportion="0.17133258">
+        <state line="5" column="31" selection-start="177" selection-end="214" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cirrus_sample_app/src/VideoPhoneLabs.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="693" column="52" selection-start="19232" selection-end="19232" vertical-scroll-proportion="0.17881945">
+          <folding>
+            <marker date="1362147483546" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="/** Simple request-reply protocol. ...*/" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1362147483546" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cirrus_sample_app/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="85" selection-start="484" selection-end="484" vertical-scroll-proportion="0.31456953">
           <folding />
         </state>
       </provider>
