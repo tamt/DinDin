@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+			   xmlns:s="library://ns.adobe.com/flex/spark" applicationDPI="160">
+	
+	<fx:Script>
+		<![CDATA[
+			import com.reyco1.multiuser.DirectLanConnection;
+			
+			import flash.utils.setTimeout;
+			
+			private var dlc:DirectLanConnection;			
+			
+			protected function handleConnectClicked(event:MouseEvent):void
+			{
+				if(portField.text != "")
+				{
+					dlc = new DirectLanConnection();
+					dlc.onConnect = handleConnection;
+					dlc.onDataRecieve = handleGetObject;
+					dlc.connect( portField.text );
+				}				
+			}
+			
+			protected function handleExitClicked(event:MouseEvent):void
+			{
+				dlc.close();
+				dlc.clear();
+				NativeApplication.nativeApplication.exit();
+			}
+			
+			protected function buttonOneClicked(event:MouseEvent):void
+			{
+				dlc.sendData( {type:"someType", value:"this is data from btn 1"} );			
+			}
+			
+			protected function buttonTwoClicked(event:MouseEvent):void
+			{
+				dlc.sendData( {type:"someOtherType", value:"this is data from btn 2"} );				
+			}			
+			
+			private function handleConnection(obj:Object):void
+			{
+				buttonGroup.enabled = true;
+				connectBtn.enabled = false;
+				
+				setTimeout( dlc.sendData, 500, {type:"message", value:"hello from controller app"} );
+			}
+			
+			private function handleGetObject():void
+			{
+				
+			}
+			
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	<s:HGroup y="10" left="10" right="10" height="35">
+		<s:TextInput id="portField" width="75%"/>
+		<s:Button id="connectBtn" height="34" label="Connect" click="handleConnectClicked(event)"/>
+	</s:HGroup>
+	<s:Button id="exitBtn" left="10" right="10" bottom="10" label="Exit" click="handleExitClicked(event)"/>
+	<s:VGroup id="buttonGroup" width="200" height="200" horizontalCenter="0" verticalCenter="-6" verticalAlign="middle" horizontalAlign="center" enabled="false">
+		<s:Button id="btn1" x="6" width="188" label="Send data button 1" click="buttonOneClicked(event)"/>
+		<s:Button id="btn2" x="7" width="186" label="Send data button 2" click="buttonTwoClicked(event)"/>
+	</s:VGroup>
+</s:Application>

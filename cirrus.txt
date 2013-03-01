@@ -1,0 +1,9 @@
+http://www.adobe.com/cfusion/entitlement/index.cfm?e=cirrus
+
+http://www.adobe.com/cn/devnet/flashplayer/articles/rtmfp_cirrus_app.html
+
+Your (codename) Cirrus developer key is:
+de58cdec6ebc0924075538b0-2c124047ea83
+
+To connect to the Cirrus service, open an RTMFP NetConnection to:
+rtmfp://p2p.rtmfp.net/de58cdec6ebc0924075538b0-2c124047ea83/
