@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="feathers" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dindin/feathers/swc/feathers.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/dindin/feathers/source" />
+    </SOURCES>
+  </library>
+</component>
