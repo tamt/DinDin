@@ -2,62 +2,821 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740e1a93-2885-4e27-a791-33e30d4c6383" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks.tps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/background-disabled-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/background-down-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/background-focused-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/background-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/button-disabled-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/button-down-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/button-selected-disabled-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/button-selected-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/button-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/callout-arrow-bottom-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/callout-arrow-left-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/callout-arrow-right-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/callout-arrow-top-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/check-selected-disabled-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/check-selected-down-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/check-selected-up-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/horizontal-scroll-bar-thumb-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-accessory-drill-down-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-first-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-first-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-last-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-last-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-middle-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-middle-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-single-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-inset-item-single-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-item-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/list-item-up-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/page-indicator-normal-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/page-indicator-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/pattern-background-tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/picker-list-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/picker-list-item-selected-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/primary-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/radio-selected-disabled-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/radio-selected-down-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/radio-selected-up-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/tab-down-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/tab-selected-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks/vertical-scroll-bar-thumb-skin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/MetalWorksMobileTheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/feathers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/starling.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/assets/images/metalworks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/bin/dindin_mobile-android-descriptor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/bin/dindin_mobile-emulator-descriptor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/dindin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/src/AppWrapper.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/src/DinDin.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/bin/dindin_mobile.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/AirIcon12x12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/P_AlternativeMetadataIndicator_30x28_N.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/collapsed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/detailHeaderRule.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/detailSectionHeader.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/expanded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/inherit-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/inheritedSummary.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/titleTableBottom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/titleTableMiddle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/images/titleTableTop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/assets/images/skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/assets/images/horizontal-grip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/assets/images/scale3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/assets/images/scale9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/assets/images/tile-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/assets/images/vertical-grip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/arial20_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/bebo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/friendfeed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/livejournal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/myspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/newsvine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/normal-page-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/orkut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/posterous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/selected-page-symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/slashdot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/viddler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/yelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/swc/feathers.swc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-selected-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-selected-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-selected-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-selected-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-hover-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-selected-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-selected-hover-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/check-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/grouped-list-header-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/header-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-decrement-button-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-increment-button-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-step-button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-step-button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-step-button-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-step-button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-thumb-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-thumb-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-thumb-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-thumb-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/horizontal-scroll-bar-track-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/hslider-thumb-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/hslider-thumb-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/hslider-thumb-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/hslider-thumb-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/hslider-track-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/item-renderer-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/item-renderer-selected-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/item-renderer-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/list-accessory-drill-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/page-indicator-normal-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/page-indicator-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/panel-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/picker-list-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/picker-list-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/picker-list-hover-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/picker-list-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/progress-bar-fill-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-hover-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-selected-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-selected-hover-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/radio-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/simple-border-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/text-input-background-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/text-input-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-decrement-button-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-increment-button-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-step-button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-step-button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-step-button-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-step-button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-thumb-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-thumb-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-thumb-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-thumb-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vertical-scroll-bar-track-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vslider-thumb-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vslider-thumb-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vslider-thumb-hover-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vslider-thumb-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon/vslider-track-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/callout-arrow-bottom-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/callout-arrow-left-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/callout-arrow-right-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/callout-arrow-top-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/callout-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-selected-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/check-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/grouped-list-header-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-maximum-track-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-maximum-track-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-maximum-track-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-minimum-track-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-minimum-track-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/hslider-minimum-track-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/inset-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/inset-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/lato30_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/list-accessory-drill-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/list-item-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/list-item-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/page-indicator-normal-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/page-indicator-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/picker-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/progress-bar-background-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/progress-bar-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/progress-bar-fill-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/progress-bar-fill-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/radio-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/radio-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/radio-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/radio-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/radio-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/simple-scroll-bar-thumb-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/slider-thumb-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/slider-thumb-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/slider-thumb-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/tab-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/toolbar-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-maximum-track-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-maximum-track-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-maximum-track-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-minimum-track-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-minimum-track-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure/vslider-minimum-track-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/background-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/background-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/background-focused-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/button-selected-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/button-selected-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/callout-arrow-bottom-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/callout-arrow-left-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/callout-arrow-right-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/callout-arrow-top-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/check-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/check-selected-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/check-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/horizontal-scroll-bar-thumb-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-accessory-drill-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-first-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-first-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-last-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-last-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-middle-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-middle-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-single-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-inset-item-single-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-item-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/list-item-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/page-indicator-normal-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/page-indicator-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/pattern-background-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/picker-list-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/picker-list-item-selected-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/primary-background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/radio-selected-disabled-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/radio-selected-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/radio-selected-up-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/tab-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/tab-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks/vertical-scroll-bar-thumb-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/button-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/callout-arrow-bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/callout-arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/callout-arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/callout-arrow-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/callout-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/check-selected-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/drop-down-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/header-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/inset-background-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/inset-background-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/list-accessory-drill-down-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/list-item-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/list-item-selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/list-item-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/page-indicator-normal-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/page-indicator-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/pf_ronda_seven_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/radio-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/radio-selected-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/scrollbar-thumb-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/tab-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/tab-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/tab-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/thumb-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/toolbar-button-disabled-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/toolbar-button-down-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/toolbar-button-selected-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal/toolbar-button-up-skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/audio/wing_flap.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/1x/desyrel.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/1x/desyrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/2x/desyrel.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/2x/desyrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/Ubuntu-R.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/1x/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/1x/compressed_texture.atf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/2x/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/2x/compressed_texture.atf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/Default-Portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/icon114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/icon144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/icon57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/icon72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/startup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/system/startupHD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_mobile/.actionScriptProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_mobile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/.actionScriptProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/.actionScriptProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/audio/click.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/1x/desyrel.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/1x/desyrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/2x/desyrel.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/2x/desyrel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/Ubuntu-R.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/1x/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/1x/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/2x/atlas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/2x/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/Default-Portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/icon114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/icon144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/icon57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/icon72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/startup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/system/startupHD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/.actionScriptProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/.flexLibProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/bin/starling.swc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/.actionScriptProperties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/util/transporter_chief/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/AC_OETags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-A.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-B.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-C.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-D.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-E.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-F.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-G.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-H.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-I.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-J.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-K.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-L.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-M.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-N.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-O.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-P.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-Q.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-R.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-S.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-T.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-U.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-V.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-W.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-X.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-Y.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/all-index-Z.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/asdoc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/class-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ButtonGroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Callout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Check.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/GroupedList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/IScreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/IScrollBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ImageLoader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Label.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/PageIndicator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/PickerList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ProgressBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Radio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Screen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ScreenNavigator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ScreenNavigatorItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ScrollBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ScrollContainer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ScrollText.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Scroller.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/SimpleScrollBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/Slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/TabBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/TextInput.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/ToggleSwitch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/CalloutPopUpContentManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/DropDownPopUpContentManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/IPopUpContentManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/VerticalCenteredPopUpContentManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/popups/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/BaseDefaultItemRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/DefaultGroupedListHeaderOrFooterRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/DefaultGroupedListItemRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/DefaultListItemRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/IGroupedListHeaderOrFooterRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/IGroupedListItemRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/IListItemRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/renderers/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/BitmapFontTextRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/StageTextTextEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/TextFieldTextEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/TextFieldTextRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/controls/text/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/DisplayListWatcher.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/FeathersControl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/IFeathersControl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/IGroupedToggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/ITextEditor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/ITextRenderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/IToggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/PopUpManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/PropertyProxy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/ToggleGroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/TokenList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/core/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/ArrayChildrenHierarchicalCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/ArrayListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/HierarchicalCollection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/IHierarchicalCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/IListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/ListCollection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/VectorIntListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/VectorListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/VectorNumberListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/VectorUintListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/XMLListListCollectionDataDescriptor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/data/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/display/Scale3Image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/display/Scale9Image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/display/TiledImage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/display/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/display/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/DragData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/DragDropManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/IDragSource.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/IDropTarget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/dragDrop/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/events/CollectionEventType.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/events/DragDropEvent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/events/FeathersEventType.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/events/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/events/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/HorizontalLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/ILayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/IVariableVirtualLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/IVirtualLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/LayoutBoundsResult.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/TiledColumnsLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/TiledRowsLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/VerticalLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/ViewPortBounds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/layout/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/OldFadeNewSlideTransitionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/ScreenFadeTransitionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/ScreenSlidingStackTransitionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/TabBarSlideTransitionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/motion/transitions/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/ImageStateValueSelector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/Scale9ImageStateValueSelector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/StandardIcons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/StateValueSelector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/StateWithToggleValueSelector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/skins/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/system/DeviceCapabilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/system/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/system/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/text/BitmapFontTextFormat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/text/StageTextField.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/text/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/text/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/textures/Scale3Textures.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/textures/Scale9Textures.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/textures/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/textures/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/display/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/display/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/display/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/math/class-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/math/package-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/feathers/utils/math/package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/index-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/override.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/package-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/documentation/title-bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/ComponentsExplorer-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/ComponentsExplorer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/data/ButtonSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/data/GroupedListSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/data/ListSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/data/SliderSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ButtonGroupScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ButtonScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ButtonSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/CalloutScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/GroupedListScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/GroupedListSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ListScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ListSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/MainMenuScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/PageIndicatorScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/PickerListScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ProgressBarScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ScrollTextScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/SliderScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/SliderSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/TabBarScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/TextInputScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/ComponentsExplorer/source/feathers/examples/componentsExplorer/screens/ToggleScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/DisplayObjectExplorer-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/DisplayObjectExplorer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/feathers/examples/displayObjects/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/feathers/examples/displayObjects/screens/Scale3ImageScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/feathers/examples/displayObjects/screens/Scale9ImageScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/DisplayObjectExplorer/source/feathers/examples/displayObjects/screens/TiledImageScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/source/Gallery-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/source/Gallery.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/source/feathers/examples/gallery/GalleryItem.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/source/feathers/examples/gallery/GalleryItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/Gallery/source/feathers/examples/gallery/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/HelloWorld/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/HelloWorld/source/HelloWorld-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/HelloWorld/source/HelloWorld.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/HelloWorld/source/feathers/examples/helloWorld/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/LayoutExplorer-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/LayoutExplorer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/data/HorizontalLayoutSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/data/TiledColumnsLayoutSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/data/TiledRowsLayoutSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/data/VerticalLayoutSettings.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/HorizontalLayoutScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/HorizontalLayoutSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/MainMenuScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/TiledColumnsLayoutScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/TiledColumnsLayoutSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/TiledRowsLayoutScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/TiledRowsLayoutSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/VerticalLayoutScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/LayoutExplorer/source/feathers/examples/layoutExplorer/screens/VerticalLayoutSettingsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/arial20.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/assets/images/atlas/arial20.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/source/TileList-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/source/TileList.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/TileList/source/feathers/examples/tileList/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/YouTubeFeeds-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/YouTubeFeeds.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/Main.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/models/VideoDetails.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/models/VideoFeed.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/models/YouTubeModel.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/screens/ListVideosScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/screens/MainMenuScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/examples/YouTubeFeeds/source/feathers/examples/youtube/screens/VideoDetailsScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Button.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ButtonGroup.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Callout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Check.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/GroupedList.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Header.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/IScreen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/IScrollBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ImageLoader.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Label.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/List.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/PageIndicator.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/PickerList.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ProgressBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Radio.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Screen.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ScreenNavigator.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ScreenNavigatorItem.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ScrollBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ScrollContainer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ScrollText.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Scroller.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/SimpleScrollBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/Slider.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/TabBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/TextInput.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/ToggleSwitch.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/popups/CalloutPopUpContentManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/popups/DropDownPopUpContentManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/popups/IPopUpContentManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/popups/VerticalCenteredPopUpContentManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/BaseDefaultItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/DefaultGroupedListHeaderOrFooterRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/DefaultGroupedListItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/DefaultListItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/IGroupedListHeaderOrFooterRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/IGroupedListItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/renderers/IListItemRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/supportClasses/GroupedListDataViewPort.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/supportClasses/IViewPort.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/supportClasses/LayoutViewPort.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/supportClasses/ListDataViewPort.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/supportClasses/TextFieldViewPort.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/text/BitmapFontTextRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/text/StageTextTextEditor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/text/TextFieldTextEditor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/controls/text/TextFieldTextRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/DisplayListWatcher.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/FeathersControl.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/IFeathersControl.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/IGroupedToggle.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/ITextEditor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/ITextRenderer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/IToggle.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/PopUpManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/PropertyProxy.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/ToggleGroup.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/TokenList.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/core/ValidationQueue.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/ArrayChildrenHierarchicalCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/ArrayListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/HierarchicalCollection.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/IHierarchicalCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/IListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/ListCollection.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/VectorIntListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/VectorListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/VectorNumberListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/VectorUintListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/data/XMLListListCollectionDataDescriptor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/display/Scale3Image.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/display/Scale9Image.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/display/TiledImage.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/dragDrop/DragData.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/dragDrop/DragDropManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/dragDrop/IDragSource.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/dragDrop/IDropTarget.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/events/CollectionEventType.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/events/DragDropEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/events/FeathersEventType.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/HorizontalLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/ILayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/IVariableVirtualLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/IVirtualLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/LayoutBoundsResult.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/TiledColumnsLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/TiledRowsLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/VerticalLayout.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/layout/ViewPortBounds.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/motion/transitions/OldFadeNewSlideTransitionManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/motion/transitions/ScreenFadeTransitionManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/motion/transitions/ScreenSlidingStackTransitionManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/motion/transitions/TabBarSlideTransitionManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/skins/ImageStateValueSelector.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/skins/Scale9ImageStateValueSelector.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/skins/StandardIcons.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/skins/StateValueSelector.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/skins/StateWithToggleValueSelector.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/system/DeviceCapabilities.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/text/BitmapFontTextFormat.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/text/StageTextField.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/textures/Scale3Textures.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/textures/Scale9Textures.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/display/calculateScaleRatioToFill.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/display/calculateScaleRatioToFit.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/math/clamp.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/math/roundDownToNearest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/math/roundToNearest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/math/roundToPrecision.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/source/feathers/utils/math/roundUpToNearest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/assets/images/aeon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AeonDesktopTheme/source/feathers/themes/AeonDesktopTheme.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/fonts/lato30.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/assets/images/azure.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/AzureMobileTheme/source/feathers/themes/AzureMobileTheme.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/assets/images/metalworks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/source/feathers/themes/MetalWorksMobileTheme.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/fonts/pf_ronda_seven.fnt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal.tps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/assets/images/minimal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/feathers/themes/MinimalMobileTheme/source/feathers/themes/MinimalMobileTheme.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/fonts/Ubuntu-License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/1x/atlas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/assets/textures/2x/atlas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/Constants.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/Game.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/MainMenu.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/AnimationScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/BenchmarkScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/BlendModeScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/CustomHitTestScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/FilterScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/MaskScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/MovieScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/RenderTextureScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/Scene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/TextScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/TextureScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/scenes/TouchScene.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/utils/ProgressBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/utils/RoundButton.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo/src/utils/TouchSheet.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_mobile/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_mobile/src/Demo_Mobile-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_mobile/src/Demo_Mobile.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/src/Demo_Web.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/src/Demo_Web_Preloader.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/demo_web/src/EmbeddedAssets.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/fonts/Ubuntu-License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/1x/atlas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/assets/textures/2x/atlas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Constants.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Game.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Menu.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Root.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Scaffold_Mobile-app.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/Scaffold_Mobile.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/samples/scaffold_mobile/src/utils/ProgressBar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/bin/warning.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/build/ant/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/build/maven/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/build/maven/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/doc/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/doc/generate.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/com/adobe/utils/AGALMiniAssembler.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/animation/DelayedCall.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/animation/IAnimatable.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/animation/Juggler.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/animation/Transitions.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/animation/Tween.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/RenderSupport.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/Starling.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/StatsDisplay.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/TouchMarker.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/TouchProcessor.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/core/starling_internal.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/BlendMode.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/Button.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/DisplayObject.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/DisplayObjectContainer.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/Image.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/MovieClip.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/Quad.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/QuadBatch.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/Sprite.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/display/Stage.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/errors/AbstractClassError.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/errors/AbstractMethodError.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/errors/MissingContextError.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/EnterFrameEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/Event.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/EventDispatcher.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/KeyboardEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/ResizeEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/Touch.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/TouchEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/events/TouchPhase.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/filters/BlurFilter.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/filters/ColorMatrixFilter.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/filters/FragmentFilter.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/filters/FragmentFilterMode.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/text/BitmapChar.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/text/BitmapFont.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/text/MiniBitmapFont.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/text/TextField.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/AtfData.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/ConcreteTexture.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/RenderTexture.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/SubTexture.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/Texture.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/TextureAtlas.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/textures/TextureSmoothing.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/AssetManager.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/Color.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/HAlign.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/MatrixUtil.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/RectangleUtil.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/ScaleMode.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/VAlign.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/VertexData.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/deg2rad.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/formatString.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/getNextPowerOfTwo.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/rad2deg.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/starling/src/starling/utils/transformCoords.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/FlexUnitApplication.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/FlexUnitCompilerApplication.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/BlendModeTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/ColorTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/DelayedCallTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/DisplayObjectContainerTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/DisplayObjectTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/EventTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/Helpers.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/JugglerTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/MovieClipTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/QuadTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/RectangleUtilTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/TextureAtlasTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/TextureTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/TweenTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/UtilsTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/tests/src/tests/VertexDataTest.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dindin/starling/util/transporter_chief/transporter_chief.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" afterPath="$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" />
     </list>
     <ignored path="DinDin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -252,6 +1011,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dindin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DinDin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dindin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DinDin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dindin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="feathers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,11 +1404,16 @@
       <created>1362099598218</created>
       <updated>1362099598218</updated>
     </task>
+    <task id="LOCAL-00001" summary="feathers starling">
+      <created>1362310133765</created>
+      <updated>1362310133765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="87" y="-4" width="1837" height="1088" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Robotlegs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32832617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6709602" order="6" side_tool="false" content_ui="tabs" />
@@ -634,12 +1426,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18363939" sideWeight="0.6888412" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6525229" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939914" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.333691" sideWeight="0.45416668" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32403433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409818" sideWeight="0.64334863" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.36697248" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933074" sideWeight="0.6709602" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34772855" sideWeight="0.5858369" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34772855" sideWeight="0.5858369" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41416308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24874792" sideWeight="0.6877682" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -647,7 +1440,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3111588" sideWeight="0.7083333" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Profile" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939914" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.333691" sideWeight="0.45416668" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -688,7 +1480,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="feathers starling" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -701,6 +1493,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="feathers starling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
