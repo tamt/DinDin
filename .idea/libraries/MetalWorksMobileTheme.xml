@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MetalWorksMobileTheme" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/dindin/feathers/themes/MetalWorksMobileTheme/source" />
+    </SOURCES>
+  </library>
+</component>
