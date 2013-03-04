@@ -31,9 +31,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="flex_sdk_4.5.0.19786" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library type="flex">
         <properties id="1e568d2e-caa4-4a34-b3b3-975fcf6d586b" />
         <CLASSES>
@@ -44,7 +43,7 @@
         <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="multiuser" />
+    <orderEntry type="module" module-name="multiuser" exported="" />
   </component>
 </module>
 

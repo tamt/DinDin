@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sender/Sender.iml" filepath="$PROJECT_DIR$/Sender/Sender.iml" />
       <module fileurl="file://$PROJECT_DIR$/as3mul_SimpleMobileController/SimpleMobileController.iml" filepath="$PROJECT_DIR$/as3mul_SimpleMobileController/SimpleMobileController.iml" />
       <module fileurl="file://$PROJECT_DIR$/as3mul_SimpleReciever/SimpleReciever.iml" filepath="$PROJECT_DIR$/as3mul_SimpleReciever/SimpleReciever.iml" />
       <module fileurl="file://$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" filepath="$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" />

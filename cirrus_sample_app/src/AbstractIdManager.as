@@ -19,7 +19,7 @@
  		/**
  		 * Dispatched when user id registartion succeeds.
  		 */
- 		[Event(name="registerSuccess", type="Event")]
+ 		[Event(name="registerSuccess", type="flash.events.Event")]
  		
  		/**
  		 * Dispatched when user id registration failed.
