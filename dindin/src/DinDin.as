@@ -3,20 +3,33 @@
  * Date: 13-3-3
  * Time: 下午4:55
  */
-package {
+package
+{
 import feathers.controls.Button;
 import feathers.controls.Callout;
 import feathers.controls.Label;
+import feathers.controls.Radio;
+import feathers.core.ToggleGroup;
 import feathers.themes.MetalWorksMobileTheme;
+
+import flash.media.Camera;
+
+import flash.media.Camera;
+import flash.media.Video;
+import flash.net.NetStream;
+import flash.sampler.getSavedThis;
+import flash.system.ApplicationDomain;
 
 import starling.display.Sprite;
 import starling.events.Event;
 
-public class DinDin extends Sprite {
+public class DinDin extends Sprite
+{
     /**
      * Constructor.
      */
-    public function DinDin() {
+    public function DinDin()
+    {
         //we'll initialize things after we've been added to the stage
         this.addEventListener(Event.ADDED_TO_STAGE, addedToStageHandler);
     }
@@ -39,7 +52,8 @@ public class DinDin extends Sprite {
      * Where the magic happens. Start after the main class has been added
      * to the stage so that we can access the stage property.
      */
-    protected function addedToStageHandler(event:Event):void {
+    protected function addedToStageHandler(event:Event):void
+    {
         this.removeEventListener(Event.ADDED_TO_STAGE, addedToStageHandler);
 
         //create the theme. this class will automatically pass skins to any
@@ -74,10 +88,20 @@ public class DinDin extends Sprite {
     /**
      * Listener for the Button's Event.TRIGGERED event.
      */
-    protected function button_triggeredHandler(event:Event):void {
-        const label:Label = new Label();
-        label.text = "Hi, I'm Feathers!\nHave a nice day.";
-        Callout.show(label, this.button);
+    protected function button_triggeredHandler(event:Event):void
+    {
+        if (Camera.isSupported) {
+            const label:Label = new Label();
+            var cam:String = Camera.names[0];
+            label.text = cam;
+            this.addChild(label);
+
+            var camera:Camera = Camera.getCamera();
+            camera.setQuality(1024, 16)
+            var video:Video = new Video(stage.stageWidth, stage.stageHeight)
+            video.attachCamera(camera);
+            App.stage.addChild(video)
+        }
     }
 }
 }

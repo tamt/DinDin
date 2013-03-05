@@ -8,15 +8,17 @@ import flash.geom.Rectangle;
 
 import starling.core.Starling;
 
-[SWF(width="960", height="640", frameRate="60", backgroundColor="#333333")]
+[SWF(width="640", height="960", frameRate="60", backgroundColor="#333333")]
 public class AppWrapper extends Sprite {
     public function AppWrapper() {
         if (this.stage) {
             this.stage.scaleMode = StageScaleMode.NO_SCALE;
             this.stage.align = StageAlign.TOP_LEFT;
+            App.init(this.stage)
         }
         this.mouseEnabled = this.mouseChildren = false;
         this.loaderInfo.addEventListener(Event.COMPLETE, loaderInfo_completeHandler);
+
     }
 
     private var _starling:Starling;

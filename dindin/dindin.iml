@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="dindin_mobile">
+  <component name="FlexBuildConfigurationManager" active="dindin">
     <configurations>
       <configuration name="dindin" pure-as="true" main-class="AppWrapper" output-file="Dindin.swf" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="11.1">
@@ -15,7 +15,7 @@
               <dependency linkage="Merged" />
             </entry>
           </entries>
-          <sdk name="flex_sdk_4.6.0_air_3.5" />
+          <sdk name="flex_sdk_4.6" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
@@ -35,15 +35,11 @@
               <dependency linkage="Merged" />
             </entry>
           </entries>
-          <sdk name="flex_sdk_4.6.0_air_3.5" />
+          <sdk name="flex_sdk_4.6" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
-        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/bin/dindin_mobile-android-descriptor.xml" package-file-name="dindin_mobile">
-          <files-to-package>
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/../out/production/dindin/dindin_mobile.swf" path-in-package="dindin_mobile.swf" />
-          </files-to-package>
-        </packaging-android>
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/bin/dindin-android-descriptor.xml" package-file-name="dindin_mobile" />
         <packaging-ios package-file-name="dindin_mobile" />
       </configuration>
     </configurations>
@@ -54,11 +50,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="flex_sdk_4.6.0_air_3.5" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="feathers" level="project" />
-    <orderEntry type="library" name="starling" level="project" />
-    <orderEntry type="library" name="MetalWorksMobileTheme" level="project" />
+    <orderEntry type="library" exported="" name="feathers" level="project" />
+    <orderEntry type="library" exported="" name="starling" level="project" />
+    <orderEntry type="library" exported="" name="MetalWorksMobileTheme" level="project" />
   </component>
 </module>
 
