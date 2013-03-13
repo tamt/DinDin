@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="dindin">
+  <component name="FlexBuildConfigurationManager" active="dindin_mobile">
     <configurations>
       <configuration name="dindin" pure-as="true" main-class="AppWrapper" output-file="Dindin.swf" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="11.1">

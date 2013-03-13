@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" filepath="$PROJECT_DIR$/cirrus_sample_app/cirrus_sample_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dindin/dindin.iml" filepath="$PROJECT_DIR$/dindin/dindin.iml" />
       <module fileurl="file://$PROJECT_DIR$/as3mul_multiuser/multiuser.iml" filepath="$PROJECT_DIR$/as3mul_multiuser/multiuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>
   </component>
 </project>
